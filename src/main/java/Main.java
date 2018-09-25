@@ -6,7 +6,7 @@ import org.bukkit.conversations.Prompt;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class Main extends JavaPlugin{
+public class Main extends JavaPlugin {
 
 	@Override
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
